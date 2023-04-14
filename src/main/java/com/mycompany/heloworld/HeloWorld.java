@@ -21,6 +21,8 @@ public class HeloWorld {
         String nome = ler.nextLine();
 
         System.out.println("Olá " + nome + "bem vindo!!");
+        System.out.println("Você sabia que todo programador deve escrever no seu primeiro código" +
+                "um simples HELLO WORLD, e assim será um grande programador?");
 
     }
 }
