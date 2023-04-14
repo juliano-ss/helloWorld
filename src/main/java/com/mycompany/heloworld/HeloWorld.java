@@ -24,5 +24,7 @@ public class HeloWorld {
         System.out.println("Você sabia que todo programador deve escrever no seu primeiro código" +
                 "um simples HELLO WORLD, e assim será um grande programador?");
 
+        System.out.println("Escreva o seu agora, BOA SORTE!! ");
+
     }
 }
