@@ -28,3 +28,5 @@ public class HeloWorld {
 
     }
 }
+
+// Este projeto tem o intuito de estudos e prática de lógica de programação
