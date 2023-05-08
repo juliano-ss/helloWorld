@@ -21,8 +21,6 @@ Para executar o projeto, siga estas etapas:
 
 ## Como usar este projeto como base para seus próprios projetos
 
-Se você deseja usar este projeto como base para seus próprios projetos, siga estas etapas:
-
 1. Faça um clone deste repositório em seu computador.
 2. Renomeie o diretório clonado para o nome desejado do seu projeto.
 3. Abra o arquivo "pom.xml" e atualize as informações do projeto, como o nome, descrição, versão, etc.
