@@ -30,4 +30,4 @@ Se você deseja usar este projeto como base para seus próprios projetos, siga e
 
 ## Conclusão
 
-Esperamos que este projeto Java simples tenha sido útil para você entender como criar e executar um programa Java usando o Maven. 
+Espero que este projeto Java simples tenha sido útil para você entender como criar e executar um programa Java usando o Maven. 
