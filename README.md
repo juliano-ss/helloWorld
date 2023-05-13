@@ -25,7 +25,3 @@ Para executar o projeto, siga estas etapas:
 2. Renomeie o diretório clonado para o nome desejado do seu projeto.
 3. Abra o arquivo "pom.xml" e atualize as informações do projeto, como o nome, descrição, versão, etc.
 4. Adicione suas classes Java no diretório "src/main/java" e seus recursos (como arquivos de configuração) no diretório "src/main/resources".
-
-## Conclusão
-
-Espero que este projeto Java simples tenha sido útil para você entender como criar e executar um programa Java usando o Maven. 
